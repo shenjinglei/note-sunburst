@@ -1,0 +1,28 @@
+{
+  "name": "note-sunburst",
+  "author": "shenjinglei",
+  "url": "https://github.com/shenjinglei/plugin-sunburst",
+  "version": "0.1.0",
+  "minAppVersion": "2.10.13",
+  "backends": ["all"],
+  "frontends": ["all"],
+  "displayName": {
+    "default": "Note Sunburst",
+    "zh_CN": "文档旭日图"
+  },
+  "description": {
+    "default": "Note Sunburst",
+    "zh_CN": "文档旭日图"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "i18n": ["en_US", "zh_CN"],
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": ["https://afdian.net/a/shenjinglei"]
+  }
+}
