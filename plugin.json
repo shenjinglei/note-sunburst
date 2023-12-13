@@ -1,7 +1,7 @@
 {
   "name": "note-sunburst",
   "author": "shenjinglei",
-  "url": "https://github.com/shenjinglei/plugin-sunburst",
+  "url": "https://github.com/shenjinglei/note-sunburst",
   "version": "0.1.0",
   "minAppVersion": "2.10.13",
   "backends": ["all"],
