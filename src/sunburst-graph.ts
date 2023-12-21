@@ -37,7 +37,22 @@ class SunburstGraph {
                 value: 1,
                 height: 1,
             };
-        } else {
+        } else if (this.diffuseGraphType === "source" && this.sourceNodes.includes(cur)) {
+            return {
+                id: cur,
+                name: rawGraph.node(cur).label,
+                value: 1,
+                height: 1,
+            };
+        } else if (this.diffuseGraphType === "sink" && this.sinkNodes.includes(cur)) {
+            return {
+                id: cur,
+                name: rawGraph.node(cur).label,
+                value: 1,
+                height: 1,
+            };
+        }
+        else {
             return {
                 id: cur,
                 name: rawGraph.node(cur).label,

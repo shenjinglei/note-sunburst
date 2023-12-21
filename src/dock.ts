@@ -41,7 +41,7 @@ export function initDock() {
 
     plugin.addDock({
         config: {
-            position: "LeftTop",
+            position: "RightBottom",
             size: { width: 300, height: 500 },
             icon: "iconPluginSunburst",
             title: i18n.pluginName,
