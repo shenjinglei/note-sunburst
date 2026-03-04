@@ -66,14 +66,13 @@ The plugin provides rich configuration options:
 
 - **v0.1.2** - Documentation enhancement
 
-For detailed changelog, see [CHANGELOG](./CHANGELOG.md)
+For detailed changelog, see [CHANGELOG](https://github.com/shenjinglei/note-sunburst/blob/main/CHANGELOG.md)
 
 ## 🤝 Feedback & Suggestions
 
 If you encounter issues or have improvement suggestions, feel free to provide feedback through:
 
-- [GitHub Issues](https://github.com/shenjinglei/plugin-sunburst/issues)
-- [Gitee Issues](https://github.com/shenjinglei/plugin-sunburst/issues) (Use when GitHub is not accessible)
+- [GitHub Issues](https://github.com/shenjinglei/note-sunburst/issues)
 
 ## 💖 Sponsorship
 

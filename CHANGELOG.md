@@ -10,6 +10,8 @@
   - Enhanced visual presentation with emojis and better formatting
   - Added detailed usage examples and screenshots
   - Improved feedback and sponsorship sections
+  - Fix wrong URL in README
+- CHANGE LICENSE
 
 ## v0.1.1/2024-03-19
 
