@@ -66,14 +66,13 @@
 
 - **v0.1.2** - 更新文档
 
-详细更新日志请查看[CHANGELOG](./CHANGELOG.md)
+详细更新日志请查看[CHANGELOG](https://github.com/shenjinglei/note-sunburst/blob/main/CHANGELOG.md)
 
 ## 🤝 反馈与建议
 
 如果您遇到问题或有改进建议，欢迎通过以下方式反馈：
 
-- [GitHub Issues](https://github.com/shenjinglei/plugin-sunburst/issues)
-- [Gitee Issues](https://github.com/shenjinglei/plugin-sunburst/issues)（当无法访问 GitHub 时使用）
+- [GitHub Issues](https://github.com/shenjinglei/note-sunburst/issues)
 
 ## 💖 赞助支持
 
