@@ -2,7 +2,7 @@
   "name": "note-sunburst",
   "author": "shenjinglei",
   "url": "https://github.com/shenjinglei/note-sunburst",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "minAppVersion": "2.10.13",
   "backends": ["all"],
   "frontends": ["all"],
@@ -23,6 +23,6 @@
     "openCollective": "",
     "patreon": "",
     "github": "",
-    "custom": ["https://afdian.net/a/shenjinglei"]
+    "custom": ["https://afdian.com/a/shenjinglei"]
   }
 }
