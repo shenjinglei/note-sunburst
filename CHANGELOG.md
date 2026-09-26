@@ -1,6 +1,12 @@
 # CHANGE LOG
 
-## v0.1.2/2025-03-04
+## v0.1.3/2025-03-04
+
+- [v0.1.3](https://github.com/shenjinglei/note-sunburst/compare/v0.1.2...v0.1.3)
+- 🐛 Avoid cyclic loading in web end
+- ⬆️ Upgrade dependenies
+
+## v0.1.2/2026-03-04
 
 - [v0.1.2](https://github.com/shenjinglei/note-sunburst/compare/v0.1.1...v0.1.2)
 - 📚 **Documentation Enhancement**

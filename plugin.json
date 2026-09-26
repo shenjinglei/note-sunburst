@@ -2,8 +2,8 @@
   "name": "note-sunburst",
   "author": "shenjinglei",
   "url": "https://github.com/shenjinglei/note-sunburst",
-  "version": "0.1.2",
-  "minAppVersion": "2.10.13",
+  "version": "0.1.3",
+  "minAppVersion": "3.8.5",
   "backends": ["all"],
   "frontends": ["all"],
   "displayName": {
