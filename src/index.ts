@@ -31,4 +31,8 @@ export default class GraphEnhancePlugin extends Plugin {
         initDock();
         settingInit();
     }
+    
+    // Triggered when data stored using saveData() changes. If commented out, the plugin will be automatically disabled and then re-enabled.
+    onDataChanged() {
+    }
 }
