@@ -64,7 +64,7 @@ The plugin provides rich configuration options:
 
 ## 📝 Changelog
 
-- **v0.1.2** - Documentation enhancement
+- **v0.1.3** - 🐛 Avoid cyclic loading in web end
 
 For detailed changelog, see [CHANGELOG](https://github.com/shenjinglei/note-sunburst/blob/main/CHANGELOG.md)
 

@@ -64,7 +64,7 @@
 
 ## 📝 更新日志
 
-- **v0.1.2** - 更新文档
+- **v0.1.3** - 🐛 修复Web端无法正常加载
 
 详细更新日志请查看[CHANGELOG](https://github.com/shenjinglei/note-sunburst/blob/main/CHANGELOG.md)
 
